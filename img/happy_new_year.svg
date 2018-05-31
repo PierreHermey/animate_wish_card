@@ -1,0 +1,139 @@
+<svg class="ldt-blank" width="1000px"  height="200px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" style="background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;"><style type="text/css">path,ellipse,circle,rect,polygon,polyline,line { stroke-width: 0; }
+@keyframes ld-swim-px {
+  0% {
+    -webkit-transform: translate(0, 0) rotate(0deg);
+    transform: translate(0, 0) rotate(0deg);
+  }
+  12.5% {
+    -webkit-transform: translate(1px, -2px) rotate(3deg);
+    transform: translate(1px, -2px) rotate(3deg);
+  }
+  25% {
+    -webkit-transform: translate(0, -3px) rotate(6deg);
+    transform: translate(0, -3px) rotate(6deg);
+  }
+  37.5% {
+    -webkit-transform: translate(-1px, -2px) rotate(3deg);
+    transform: translate(-1px, -2px) rotate(3deg);
+  }
+  50% {
+    -webkit-transform: translate(0, 0) rotate(0deg);
+    transform: translate(0, 0) rotate(0deg);
+  }
+  62.5% {
+    -webkit-transform: translate(1px, 2px) rotate(-3deg);
+    transform: translate(1px, 2px) rotate(-3deg);
+  }
+  75% {
+    -webkit-transform: translate(0, 3px) rotate(-6deg);
+    transform: translate(0, 3px) rotate(-6deg);
+  }
+  87.5% {
+    -webkit-transform: translate(-1px, 2px) rotate(-3deg);
+    transform: translate(-1px, 2px) rotate(-3deg);
+  }
+  100% {
+    -webkit-transform: translate(0, 0) rotate(0deg);
+    transform: translate(0, 0) rotate(0deg);
+  }
+}
+@-webkit-keyframes ld-swim-px {
+  0% {
+    -webkit-transform: translate(0, 0) rotate(0deg);
+    transform: translate(0, 0) rotate(0deg);
+  }
+  12.5% {
+    -webkit-transform: translate(1px, -2px) rotate(3deg);
+    transform: translate(1px, -2px) rotate(3deg);
+  }
+  25% {
+    -webkit-transform: translate(0, -3px) rotate(6deg);
+    transform: translate(0, -3px) rotate(6deg);
+  }
+  37.5% {
+    -webkit-transform: translate(-1px, -2px) rotate(3deg);
+    transform: translate(-1px, -2px) rotate(3deg);
+  }
+  50% {
+    -webkit-transform: translate(0, 0) rotate(0deg);
+    transform: translate(0, 0) rotate(0deg);
+  }
+  62.5% {
+    -webkit-transform: translate(1px, 2px) rotate(-3deg);
+    transform: translate(1px, 2px) rotate(-3deg);
+  }
+  75% {
+    -webkit-transform: translate(0, 3px) rotate(-6deg);
+    transform: translate(0, 3px) rotate(-6deg);
+  }
+  87.5% {
+    -webkit-transform: translate(-1px, 2px) rotate(-3deg);
+    transform: translate(-1px, 2px) rotate(-3deg);
+  }
+  100% {
+    -webkit-transform: translate(0, 0) rotate(0deg);
+    transform: translate(0, 0) rotate(0deg);
+  }
+}
+.ld.ld-swim-px {
+  -webkit-animation: ld-swim-px 3s infinite linear;
+  animation: ld-swim-px 3s infinite linear;
+}
+
+text { font-family: Helvetica Neue }</style><g transform="translate(51.950000000000045 136.3)" style="opacity: 1;">
+  <g style="animation-delay: 0s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 45px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#3be8b0" style="font-family:Helvetica Neue">H</text>
+  </g>
+</g><g transform="translate(141.95000000000005 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.0714286s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 30.5px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#1aafd0" style="font-family:Helvetica Neue">a</text>
+  </g>
+</g><g transform="translate(202.95000000000005 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.142857s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 33px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#6a67ce" style="font-family:Helvetica Neue">p</text>
+  </g>
+</g><g transform="translate(268.95000000000005 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.214286s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 33px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#ffb900" style="font-family:Helvetica Neue">p</text>
+  </g>
+</g><g transform="translate(334.95000000000005 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.285714s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 29.5px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#fc636b" style="font-family:Helvetica Neue">y</text>
+  </g>
+</g><g transform="translate(393.95000000000005 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.357143s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 18.025px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#3be8b0" style="font-family:Helvetica Neue"> </text>
+  </g>
+</g><g transform="translate(430.00000000000006 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.428571s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 45px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#1aafd0" style="font-family:Helvetica Neue">N</text>
+  </g>
+</g><g transform="translate(520 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.5s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 30.5px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#6a67ce" style="font-family:Helvetica Neue">e</text>
+  </g>
+</g><g transform="translate(581 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.571429s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 44px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#ffb900" style="font-family:Helvetica Neue">w</text>
+  </g>
+</g><g transform="translate(669 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.642857s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 18.025px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#fc636b" style="font-family:Helvetica Neue"> </text>
+  </g>
+</g><g transform="translate(705.05 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.714286s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 35.5px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#3be8b0" style="font-family:Helvetica Neue">Y</text>
+  </g>
+</g><g transform="translate(776.05 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.785714s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 30.5px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#1aafd0" style="font-family:Helvetica Neue">e</text>
+  </g>
+</g><g transform="translate(837.05 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.857143s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 30.5px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#6a67ce" style="font-family:Helvetica Neue">a</text>
+  </g>
+</g><g transform="translate(898.05 136.3)" style="opacity: 1;">
+  <g style="animation-delay: -0.928571s; animation-duration: 1.2s; font-size: 103px; animation-direction: normal; transform-origin: 25px 0px 0px;" class="ld ld-swim-px">
+    <text fill="#ffb900" style="font-family:Helvetica Neue">r</text>
+  </g>
+</g></svg>
